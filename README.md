@@ -10,7 +10,7 @@
 
 # \- Email: lucascorrea1802@gmail.com
 
-# \- LinkedIn: \[add your LinkedIn URL here]
+# \- LinkedIn: \https://www.linkedin.com/in/lucas-correa-5b653121b/
 
 # \- Location: Porto, Portugal (open to relocation)
 
